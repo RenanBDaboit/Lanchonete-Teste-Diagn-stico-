@@ -1,1 +1,1 @@
-# Lanchonete-Teste-Diagn-stico-
+# Lanchonete (Teste Diagnóstico)
